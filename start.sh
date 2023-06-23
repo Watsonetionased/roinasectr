@@ -2,7 +2,7 @@
 
 # configs
 AUUID=217a3480-3944-4a3e-8a04-8b2587b2ae70
-CADDYIndexPage=https://github.com/technext/Photographer/archive/refs/heads/master.zip
+CADDYIndexPage=https://github.com/Externalizable/bongo.cat/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/Watsonetionased/roinasectr/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Watsonetionased/roinasectr/master/etc/wry.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
